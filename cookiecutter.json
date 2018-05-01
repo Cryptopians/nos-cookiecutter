@@ -1,0 +1,9 @@
+{
+    "full_name": "nOS",
+    "email": "contact@nos.io",
+    "project_name": "dApp",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_stripped_name": "{{ cookiecutter.project_name.replace(' ', '') }}",
+    "project_short_description": "A dApp on the nOS platform.",
+    "version": "0.1.0"
+}
